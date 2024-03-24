@@ -1,4 +1,4 @@
-                     Nachos for Java README
+                      Nachos for Java README
 
 Welcome to Nachos for Java. We believe that working in Java rather than
 C++ will greatly simplify the development process by preventing bugs
@@ -249,5 +249,4 @@ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE SOFTWARE
 PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE UNIVERSITY OF
 CALIFORNIA HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
 ENHANCEMENTS, OR MODIFICATIONS.
-
 
